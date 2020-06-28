@@ -1,4 +1,4 @@
-import Store from "./Store"
+import Store from "."
 import { assert } from "console";
 
 function initStore(name: string, fn: (state:any) => void, initialstate?: any){
