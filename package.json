@@ -1,0 +1,35 @@
+{
+  "name": "js-wavela",
+  "version": "1.0.0",
+  "description": "A simple JavaScript state management library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MamoonAhmad/js-wavela.git"
+  },
+  "keywords": [
+    "js-wavela",
+    "state",
+    "management",
+    "state",
+    "js",
+    "state"
+  ],
+  "author": "Mamoon Ahmed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MamoonAhmad/js-wavela/issues"
+  },
+  "homepage": "https://github.com/MamoonAhmad/js-wavela#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.3",
+    "@types/node": "^14.0.14",
+    "jest": "^26.1.0",
+    "ts-jest": "^26.1.1",
+    "typescript": "^3.9.5"
+  }
+}
