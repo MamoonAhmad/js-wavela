@@ -1,6 +1,6 @@
 {
   "name": "js-wavela",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple JavaScript state management library.",
   "main": "build/index.js",
   "types": "build/index.d.ts",
